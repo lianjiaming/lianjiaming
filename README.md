@@ -1,2 +1,2 @@
-Luogu: [Jimmy_Lian](https://luogu.com.cn/user/177435]
+Luogu: <a href="luogu.com.cn/user/177435">Jimmy_Lian</a>
  
